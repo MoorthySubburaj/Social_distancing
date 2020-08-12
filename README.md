@@ -1,4 +1,4 @@
-# Social_distancing
+# Social Distancing using YOLO
 Steps:
 
 1)Download YOLO pre-trained weights from https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0/
